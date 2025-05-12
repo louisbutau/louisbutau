@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I am Louis Butau
+
+# 📫 How to reach me:
+
+* louis.butau@gmail.com
+* +263 777853439
+  
+# 🔭 I’m currently working on an AI project, that will do more than one task.
+### ⚡ Fun fact: I AM A GENIUS
+
 
 <!--
 **louisbutau/louisbutau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
