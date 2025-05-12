@@ -1,12 +1,13 @@
-## Hi there 👋 I am Louis Butau
+# Hi there 👋 I am Louis Butau
 
-# 📫 How to reach me:
-
-* louis.butau@gmail.com
-* +263 777853439
+## 📫 How to reach me:
+___________________________________________________
+  * louis.butau@gmail.com
+  * +263 777853439
   
-# 🔭 I’m currently working on an AI project, that will do more than one task.
-### ⚡ Fun fact: I AM A GENIUS
+## 🔭 I’m currently working on an AI project, that will do more than one task.
+
+# ⚡ Fun fact: I AM A GENIUS
 
 
 <!--
